@@ -1,0 +1,64 @@
+region,rank1,team1,score1,rank2,team2,score2,winning-team,round-number,game-number
+Championship,2,Duke,,2,Villanova,,Villanova,6,1
+Final Four,2,Duke,,8,North Carolina,,Duke,5,1
+Final Four,2,Villanova,,1,Kansas,,Villanova,5,1
+West,4,Arkansas,,2,Duke,,Duke,4,1
+West,1,Gonzaga,,4,Arkansas,,Arkansas,3,1
+West,3,Texas Tech,,2,Duke,,Duke,3,2
+West,1,Gonzaga,,9,Memphis,,Gonzaga,2,1
+West,12,New Mexico St.,,4,Arkansas,,Arkansas,2,2
+West,11,Notre Dame,,3,Texas Tech,,Texas Tech,2,3
+West,7,Michigan St.,,2,Duke,,Duke,2,4
+West,1,Gonzaga,,16,Georgia St.,,Gonzaga,1,1
+West,8,Boise St.,,9,Memphis,,Memphis,1,2
+West,5,UConn,,12,New Mexico St.,,New Mexico St.,1,3
+West,4,Arkansas,,13,Vermont,,Arkansas,1,4
+West,6,Alabama,,11,Notre Dame,,Notre Dame,1,5
+West,3,Texas Tech,,14,Montana St.,,Texas Tech,1,6
+West,7,Michigan St.,,10,Davidson,,Michigan St.,1,7
+West,2,Duke,,15,Cal St. Fullerton,,Duke,1,8
+South,5,Houston,,2,Villanova,,Villanova,4,1
+South,1,Arizona,,5,Houston,,Houston,3,1
+South,11,Michigan,,2,Villanova,,Villanova,3,2
+South,1,Arizona,,9,TCU,,Arizona,2,1
+South,5,Houston,,4,Illinois,,Houston,2,2
+South,11,Michigan,,3,Tennessee,,Michigan,2,3
+South,7,Ohio St.,,2,Villanova,,Villanova,2,4
+South,1,Arizona,,16,Wright St.,,Arizona,1,1
+South,8,Seton Hall,,9,TCU,,TCU,1,2
+South,5,Houston,,12,UAB,,Houston,1,3
+South,4,Illinois,,13,Chattanooga,,Illinois,1,4
+South,6,Colorado St.,,11,Michigan,,Michigan,1,5
+South,3,Tennessee,,14,Longwood,,Tennessee,1,6
+South,7,Ohio St.,,10,Loyola Chicago,,Ohio St.,1,7
+South,2,Villanova,,15,Delaware,,Villanova,1,8
+East,8,North Carolina,,15,Saint Peter's,,North Carolina,4,1
+East,8,North Carolina,,4,UCLA,,North Carolina,3,1
+East,3,Purdue,,15,Saint Peter's,,Saint Peter's,3,2
+East,1,Baylor,,8,North Carolina,,North Carolina,2,1
+East,5,Saint Mary's,,4,UCLA,,UCLA,2,2
+East,6,Texas,,3,Purdue,,Purdue,2,3
+East,7,Murray St.,,15,Saint Peter's,,Saint Peter's,2,4
+East,1,Baylor,,16,Norfolk St.,,Baylor,1,1
+East,8,North Carolina,,9,Marquette,,North Carolina,1,2
+East,5,Saint Mary's,,12,Indiana,,Saint Mary's,1,3
+East,4,UCLA,,13,Akron,,UCLA,1,4
+East,6,Texas,,11,Virginia Tech,,Texas,1,5
+East,3,Purdue,,14,Yale,,Purdue,1,6
+East,7,Murray St.,,10,San Francisco,,Murray St.,1,7
+East,2,Kentucky,,15,Saint Peter's,,Saint Peter's,1,8
+Midwest,1,Kansas,,10,Miami (FL),,Kansas,4,1
+Midwest,1,Kansas,,4,Providence,,Kansas,3,1
+Midwest,11,Iowa St.,,10,Miami (FL),,Miami (FL),3,2
+Midwest,1,Kansas,,9,Creighton,,Kansas,2,1
+Midwest,12,Richmond,,4,Providence,,Providence,2,2
+Midwest,11,Iowa St.,,3,Wisconsin,,Iowa St.,2,3
+Midwest,10,Miami (FL),,2,Auburn,,Miami (FL),2,4
+Midwest,1,Kansas,,16,Texas Southern,,Kansas,1,1
+Midwest,8,San Diego St.,,9,Creighton,,Creighton,1,2
+Midwest,5,Iowa,,12,Richmond,,Richmond,1,3
+Midwest,4,Providence,,13,South Dakota St.,,Providence,1,4
+Midwest,6,LSU,,11,Iowa St.,,Iowa St.,1,5
+Midwest,3,Wisconsin,,14,Colgate,,Wisconsin,1,6
+Midwest,7,USC,,10,Miami (FL),,Miami (FL),1,7
+Midwest,2,Auburn,,15,Jacksonville St.,,Auburn,1,8

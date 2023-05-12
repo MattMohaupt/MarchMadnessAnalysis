@@ -1,0 +1,64 @@
+region,rank1,team1,score1,rank2,team2,score2,winning-team,round-number,game-number
+Championship,3,Texas,,1,Illinois,,Illinois,6,1
+Final Four,12,UCSB,,3,Texas,,Texas,5,1
+Final Four,5,Villanova,,1,Illinois,,Illinois,5,2
+West,12,UCSB,,2,Iowa,,UCSB,4,1
+West,9,Missouri,,12,UCSB,,UCSB,3,1
+West,11,Drake,,2,Iowa,,Iowa,3,2
+West,1,Gonzaga,,9,Missouri,,Missouri,2,1
+West,12,UCSB,,4,Virginia,,UCSB,2,2
+West,11,Drake,,14,Eastern Wash.,,Drake,2,3
+West,7,Oregon,,2,Iowa,,Iowa,2,4
+West,1,Gonzaga,,16,Norfolk St.,,Gonzaga,1,1
+West,8,Oklahoma,,9,Missouri,,Missouri,1,2
+West,5,Creighton,,12,UCSB,,UCSB,1,3
+West,4,Virginia,,13,Ohio,,Virginia,1,4
+West,6,USC,,11,Drake,,Drake,1,5
+West,3,Kansas,,14,Eastern Wash.,,Eastern Wash.,1,6
+West,7,Oregon,,10,VCU,,Oregon,1,7
+West,2,Iowa,,15,Grand Canyon,,Iowa,1,8
+South,5,Villanova,,6,Texas Tech,,Villanova,4,1
+South,1,Baylor,,5,Villanova,,Villanova,3,1
+South,6,Texas Tech,,2,Ohio St.,,Texas Tech,3,2
+South,1,Baylor,,8,North Carolina,,Baylor,2,1
+South,5,Villanova,,4,Purdue,,Villanova,2,2
+South,6,Texas Tech,,14,Colgate,,Texas Tech,2,3
+South,10,Virginia Tech,,2,Ohio St.,,Ohio St.,2,4
+South,1,Baylor,,16,Hartford,,Baylor,1,1
+South,8,North Carolina,,9,Wisconsin,,North Carolina,1,2
+South,5,Villanova,,12,Winthrop,,Villanova,1,3
+South,4,Purdue,,13,North Texas,,Purdue,1,4
+South,6,Texas Tech,,11,Utah St.,,Texas Tech,1,5
+South,3,Arkansas,,14,Colgate,,Colgate,1,6
+South,7,Florida,,10,Virginia Tech,,Virginia Tech,1,7
+South,2,Ohio St.,,15,ORU,,Ohio St.,1,8
+East,12,Georgetown,,3,Texas,,Texas,4,1
+East,16,Texas Southern,,12,Georgetown,,Georgetown,3,1
+East,3,Texas,,10,Maryland,,Texas,3,2
+East,16,Texas Southern,,9,St. Bonaventure,,Texas Southern,2,1
+East,12,Georgetown,,13,UNC Greensboro,,Georgetown,2,2
+East,6,BYU,,3,Texas Tech,,Texas Tech,2,3
+East,10,Maryland,,15,Iona,,Maryland,2,4
+East,1,Michigan,,16,Texas Southern,,Texas Southern,1,1
+East,8,LSU,,9,St. Bonaventure,,St. Bonaventure,1,2
+East,5,Colorado,,12,Georgetown,,Georgetown,1,3
+East,4,Florida St.,,13,UNC Greensboro,,UNC Greensboro,1,4
+East,6,BYU,,11,UCLA,,BYU,1,5
+East,3,Texas,,14,Abil. Christian,,Texas,1,6
+East,7,UConn,,10,Maryland,,Maryland,1,7
+East,2,Alabama,,15,Iona,,Iona,1,8
+Midwest,1,Illinois,,2,Houston,,Illinois,4,1
+Midwest,1,Illinois,,5,Tennessee,,Illinois,3,1
+Midwest,14,Morehead St.,,2,Houston,,Houston,3,2
+Midwest,1,Illinois,,9,Georgia Tech,,Illinois,2,1
+Midwest,5,Tennessee,,13,Liberty,,Tennessee,2,2
+Midwest,11,Syracuse,,14,Morehead St.,,Morehead St.,2,3
+Midwest,7,Clemson,,2,Houston,,Houston,2,4
+Midwest,1,Illinois,,16,Drexel,,Illinois,1,1
+Midwest,8,Loyola Chi.,,9,Georgia Tech,,Georgia Tech,1,2
+Midwest,5,Tennessee,,12,Oregon St.,,Tennessee,1,3
+Midwest,4,Oklahoma St.,,13,Liberty,,Liberty,1,4
+Midwest,6,San Diego St.,,11,Syracuse,,Syracuse,1,5
+Midwest,3,West Virginia,,14,Morehead St.,,Morehead St.,1,6
+Midwest,7,Clemson,,10,Rutgers,,Clemson,1,7
+Midwest,2,Houston,,15,Cleveland St.,,Houston,1,8
